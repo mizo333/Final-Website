@@ -1,0 +1,76 @@
+body, html{
+	min-height:100%; 
+	padding:0; 
+	margin:0;
+	border:50;
+	top:20px;
+	position:fixed;
+	background-color:black;
+	
+}
+
+#header{
+	position:fixed; 
+	top:0px;
+	float:left;
+	width:100%;
+	height:60px; 
+	
+	color:White;
+	text-align:center;
+	background-color:Red;
+
+}
+
+#content, #myStyle{
+	position:fixed; 
+	top:60px;
+
+	width:100%;
+	height:50px; 
+	
+	text-align:center;
+	color:black;
+	background-color:Yellow;
+}
+
+
+#footer{ 
+	position:fixed; 
+	top:880px;
+
+	width:100%;
+	height:50px; 
+	
+	text-align:center;
+	color:white;
+	background-color:Blue;
+}
+
+
+h1 {font-size: 30px; }
+      “h1” = selector
+     “font-size” = property
+     “30px” = value
+	 font-family:verdana;
+	 	 
+   p.capitalize {
+    text-transform: capitalize;
+}
+   
+ p{
+      
+	  
+	  
+   }
+   
+   p{
+	   font-family:"Times New Roman", Times, serif;
+	   color:White;
+	   
+}
+p.uppercase {
+    text-transform: uppercase;
+}
+
+   
